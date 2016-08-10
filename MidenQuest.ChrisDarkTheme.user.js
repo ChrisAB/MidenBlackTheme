@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         MidenQuest - Dark Theme (Custom)
-// @namespace    https://github.com/Vibblez/MidenQuest
+// @name         MidenQuest - Dark Theme (Chris)
+// @namespace    https://github.com/ChrisAB/MidenBlackTheme
 // @version      0.1.2
 // @description  MidenQuest Enhancement Script
 // @author       Chris&Vibblez
